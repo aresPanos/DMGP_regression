@@ -1,1 +1,1 @@
-# DMGP_regression
+# Faster Gaussian Processes via Deep Embeddings
