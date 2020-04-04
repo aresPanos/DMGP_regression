@@ -8,7 +8,7 @@ GPflow version 2.0.0 or newer
 
 ### Source code
 
-In the **src** directory the following files can be found:  
+The following files can be found in the **src** directory :  
 
 - *dmgp_model.py*: implementation of the DMGP model
 - *helper.py*: various utility gunctions
